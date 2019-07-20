@@ -10,6 +10,7 @@ robots.txt
 sites/README.txt
 
 # Ignore everything but the "sites" folder ( for non core developer )
+.gitignore
 .htaccess
 web.config
 authorize.php
